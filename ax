@@ -18,13 +18,4 @@ and a red color indicates a downtrend. It clearly shows the assumed market direc
 * It can often signal a trend all the way to the very end
 * It can often identify a trend right from the beginning – it is not delayed
 
-# How to download?
 
-* It is easy to download, just follow these steps below:
-* Download the indicators here.
-* Turn on your Axiory MT4 platform.
-* Click the “File” tab in the upper left corner and choose “open data folder”.
-* Open the “MQL” folder and then “Indicators”.
-* Insert the downloaded file (indicator) to the “Indicators” folder.
-* Quit and relaunch the Axiory MT4 trading platform.
-* Axiory Indicator is now ready to use.
