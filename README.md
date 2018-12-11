@@ -63,7 +63,7 @@ At this point you need to enable Web requests by following these steps:
 At this point Autochartist should be installed, please open it.
 
 ## How to use
-You can learn how to use Autochartist by watching [the video](https://www.youtube.com/watch?v=0vNTP8UXRp4)
+You can learn how to use Autochartist by watching [this video](https://www.youtube.com/watch?v=0vNTP8UXRp4).
 
 You can also use Autochartist on Demo accounts as well but there’s a 5 candle delay.
 
@@ -90,5 +90,6 @@ As there is always a chance that Fibonacci patterns, Chart patterns, and Key lev
 
 **There are many reasons to pass up a trading opportunity but there are not many reasons to pass up an opportunity of having such powerful service as Autochartist available for your trading.** 
 
-[OPEN LIVE ACCOUNT AND EARN AUTOCHARTIST FOR FREE!](https://www.axiory.com/start/individual?lng=en&id=722d59d1-e71e-11e8-85cd-598997c598fe&step=personal-details)
+<p align="center"> OPEN REAL ACCOUNT AND EARN AUTOCHARTIST FOR FREE </p>
+<button>OPEN REAL ACCOUNT</button>
 
