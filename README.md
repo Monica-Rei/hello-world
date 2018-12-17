@@ -8,13 +8,13 @@ It’s called Autochartist and our clients will get it for free.
 
 ### So what Autochartist does?
 * Automatically identifying potential trading opportunities 
-* Providing market reports 
 * Helping traders with risk assessment 
 * Making you a more experienced trader 
 
 ### And how does it?
 * By scanning massive packets of market data and processing them into chart pattern formations or Fibonacci patterns straight into your MetaTrader platform.   
 * By offering Volatility Analysis - an important statistical information on the instruments they trade based on which traders can decide how to set stop-loss and take-profit levels 
+* Via educative materials that are available for example in the form of video tutorials, Autochartist will teach you to understand its data projecting features like Fibonacci patterns, or Chart patterns 
 
 Surely there are many other tools and indicators that can help you with technical analysis, so what are the main benefits of Autochartist?
 
@@ -27,37 +27,38 @@ Technical analysis, market reports, volatility analysis, alerting, quality indic
 
 Fibonacci patterns, Chart patterns, Key levels, volatility analysis - these are main features within Autochartist.  
 
-**User-friendly** 
-Taking into consideration its complicated field of expertise and wide range of chart pattern formations that Autochartist can display, and acknowledging the fact that learning how to use this service can take some time - it only makes sense that launching Autochartist and its functions is as easy as it can be in order not to distract you from trading. 
-Do you know how to drag & drop? Then you know how to launch Autochartist from Metatrader! Just drag & drop Autochartist web indicator into a said trading platform and it will launch itself automatically in a new window, the same goes for Autochartist custom indicators. 
-Working with Autochartist only require one monitor or display as it launches in your Metatrader window - this could be also appreciated by owners of Ipads and other portable devices to which Metatrader scales perfectly. 
+**Educative approach**
+Don’t get us wrong, we realize that you might be on the beginning of your Forex trading path so we are not using all those big words and throwing charts around in order to intimidate you. Quite the contrary we are trying to show you what you will be able to work with on a daily basis without batting an eye.
+Autochartist has in-built video tutorials and training guides which will help you to learn everything you need in order to use its chart pattern formations, Fibonacci patterns, and technical analysis efficiently and effortlessly.
 
 **Customizable** 
 Leaving Autochartist to provide you with all the information at once would certainly make your Metatrader illegible the least. That’s why you can fully customize your search criteria and filter out unwanted data - just make it your own way!
-
 Are you swing trader or do you prefer breakout strategy when trading Forex? Autochartist plots both support and resistance lines. 
-**Time-saving **
-In the simplest way - Autochartist analyses massive amounts of market data and then alerts you if there’s potential trade opportunity - a skill for which you would otherwise need years of experience and marketing insights can be this way learned in a much less time.
 
+**Time-saving**
+In the simplest way - Autochartist analyses massive amounts of market data and then alerts you if there’s potential trade opportunity - a skill for which you would otherwise need years of experience and marketing insights can be this way learned in a much less time.
 All you need to do is to learn how to understand various chart pattern formations, how to work with Fibonacci patterns and how to use key levels - trading has never been easier. 
+
+**Works on Demo accounts**
+Do you want to try out Autochartist but don’t have live account with us yet? Autochartist gives you the opportunity to test its functions even on demo accounts, with only difference from live account and that is 5 candle delay. Try out Autochartist on demo account and you will admit that this program is one of the reasons why to go live with us!
+
  
 ### Features
 
-** Fibonacci patterns ** 
+**Fibonacci patterns** 
 You might know the Fibonacci sequence which is manifested throughout nature in the form of the so-called golden ratio. Apart from the shapes of galaxies, or plant seeds and many others, it has found its way into trading too - specifically in the form of shaping market data into Fibonacci patterns. Thanks to these patterns Autochartist identifies probable support and resistance levels which can help you with identifying trading opportunities. 
 
-** Chart Patterns **
+**Chart Patterns**
 By working with chart patterns you are indirectly working with market psychology which is one of the aspects that is responsible for forming resistance and support lines. Chart patterns are formed by recognizing combinations of opposing resistance and support line slopes and price “bouncing” between them. Autochartist is able to distinguish 16 patterns in total which means 16 times more chances to spot trading opportunities. 
 
 **Key levels**
- Every time price bounces off of horizontal support or resistance line, Autochartist counts it as a touching point, whenever there are at least 3 touching points - Key level is established. Key levels are pointing towards the fact that market might not be ready to break through certain price which is valuable information for traders who want to set their stop-loss or take-profit levels precisely and therefore assess their risk in a more efficient way. 
+Every time price bounces off of horizontal support or resistance line, Autochartist counts it as a touching point, whenever there are at least 3 touching points - Key level is established. Key levels are pointing towards the fact that market might not be ready to break through certain price which is valuable information for traders who want to set their stop-loss or take-profit levels precisely and therefore assess their risk in a more efficient way. 
  
 **Volatility analysis** 
  Those who forget the history are doomed to repeat it - if you agree with this then read on. Volatility Analysis enables you to observe past volatility of traded instruments and furthermore it also gives you an insight into the future. How? By forecasting probable volatility levels in the upcoming 24 hours. This will ultimately help you not only to assess risk by setting stop-loss and take-profit levels but also to refine your personal trading strategies. 
  
 **Quality indicators**
 None of the mentioned features is infallible therefore Autochartist comes with yet another feature which the main purpose is to determine the reliability of tools used for technical analysis. These are called quality indicators and based on a certain characteristic they assess the overall reliability of tools you are using and display it in a comprehensible way. This will help you to decide whether to trade or not. 
-
 
 
 Autochartist is not just one of the other tools and indicators we offer for free to clients who open a live account with us. Everything we do we do with certain purpose and that purpose is educated and confident client who is able to make informed trading decisions.
@@ -96,7 +97,15 @@ The capacity of analyzing massive quantities of data, processing them into vario
 
 ## How to install
 **Windows** 
-* [Download the plug-in here](http://www.autochartist.com/metatrader-plugin/index.jsp?download=true) and run the windows installer
+* Choose your language and download the plug-in here:
+  * [English](http://www.autochartist.com/metatrader-plugin/index.jsp?download=true) and run the windows installer
+  * [Spanish](http://www.autochartist.com/metatrader-plugin/index_es.jsp?download=true) and run the windows installer
+  * [Russian](http://www.autochartist.com/metatrader-plugin/index_ru.jsp?download=true) and run the windows installer
+  * [Italian](http://www.autochartist.com/metatrader-plugin/index_it.jsp?download=true) and run the windows installer
+  * [Chinese](http://www.autochartist.com/metatrader-plugin/index_ch.jsp?download=true) and run the windows installer
+  * [Indonesian](http://www.autochartist.com/metatrader-plugin/index_in.jsp?download=true) and run the windows installer
+  * [Thai](http://www.autochartist.com/metatrader-plugin/index_th.jsp?download=true) and run the windows installer
+  * [Vietnamese](http://www.autochartist.com/metatrader-plugin/index_vi.jsp?download=true) and run the windows installer
 * Click next on Autochartist MT4 expert advisor setup
 * Accept license agreement & Click Next
 * Select a platform on which you want Autochartist to be installed
