@@ -191,6 +191,7 @@ As there is always a chance that Fibonacci patterns, Chart patterns, and Key lev
 
 **Mac**
 (Installation process for Mac users is somewhat more difficult.)
+* Download this file
 * Open the Terminal (cmd + space and type in “Terminal”)
 * Copy & paste following command into the Terminal and hit “Enter”
   * If you are using OS X 10.9 or later:
